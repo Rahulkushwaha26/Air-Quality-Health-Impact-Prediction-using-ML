@@ -53,7 +53,7 @@ Python 3, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, J
 
 ## Project Structure
 - data/
-    air_quality_india.csv
+    cleaned_air_quality_data.csv
  - src/
    AQI_Project_Code
  - output/
