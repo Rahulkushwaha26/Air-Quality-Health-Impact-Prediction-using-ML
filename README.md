@@ -11,7 +11,7 @@ Given hourly pollutant concentration readings from automated monitoring stations
 ## Pipeline Overview
 Raw dataset input of 135,513 records is passed through the following steps:
 
-1. Exploratory Data Analysis — distribution, correlation, and city-wise AQI analysis
+1. Exploratory Data Analysis(EDA) — distribution, correlation, and city-wise AQI analysis
 2. Quality checks — null values, duplicate rows, and infinite value detection
 3. Outlier removal using the Interquartile Range method — 53,517 rows removed
 4. Feature engineering — Datetime column dropped as non-predictive
