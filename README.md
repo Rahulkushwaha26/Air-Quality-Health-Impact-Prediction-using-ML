@@ -1,4 +1,4 @@
-# AQI Index Prediction for Smart Cities using Big Data Analytics
+# AI-Powered Air Quality & Health Impact Prediction
 
 ## About the Project
 Air pollution is one of the most serious public health challenges in India today. This project builds a complete Big Data analytics pipeline to predict the Air Quality Index category from real-world hourly pollutant sensor readings collected across nine major Indian cities. Instead of relying on manual monitoring, the system uses supervised machine learning classification algorithms to automatically classify air quality into six categories — Good, Satisfactory, Moderate, Poor, Very Poor, and Severe.
